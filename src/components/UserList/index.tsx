@@ -26,6 +26,7 @@ import rinAvatar from "../../assets/avatars/rin.svg";
 import sofiaAvatar from "../../assets/avatars/sofia.svg";
 import williamAvatar from "../../assets/avatars/William.png";
 import zoeAvatar from "../../assets/avatars/zoe.svg";
+import echoAvatar from "../../assets/avatars/echo.svg";
 
 interface UserOptions {
 	username: string;
